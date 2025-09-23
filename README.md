@@ -283,7 +283,7 @@ This ensures the dataset is ready for star schema modeling, where:
 $\textsf{\color{blue}{View Modelling ➡️}}$
 </summary> <br>
 
-<img width="982" height="664" alt="Image" src="https://github.com/user-attachments/assets/8c3c1b7f-1171-42df-bfc9-a9083726a8b5" /> <br>
+<img width="700" height="400" alt="Image" src="https://github.com/user-attachments/assets/8b5600b7-bfca-48f0-b1ca-e40a9fb4fede" />
 
 **Fact Table**
 
@@ -483,7 +483,7 @@ $\textsf{\color{blue}{View Images ➡️}}$
 - Country-Level Ticket Volumes (Top 5 countries / Map view)
 - Queue-wise Ticket Workload (which support teams handle most)
 
-> <a href="https://app.powerbi.com/view?r=eyJrIjoiNWU0MmMyNGQtODFiMS00NzI3LTk1MDMtYWU3OTNlNmE1MjM4IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9" target="_blank"><img width="1200" height="674" alt="Image" src="https://github.com/user-attachments/assets/55b78cd7-d4f9-4a75-aacf-6642dbe37639" />
+> <a href="https://app.powerbi.com/view?r=eyJrIjoiNWU0MmMyNGQtODFiMS00NzI3LTk1MDMtYWU3OTNlNmE1MjM4IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9" target="_blank"><img width="700" height="450" alt="Image" src="https://github.com/user-attachments/assets/daf7b7ae-3d56-424f-a516-0f0a195d015c" />
 </a>
 
 > ### 2.Resolution Deep Dive 
@@ -493,7 +493,7 @@ $\textsf{\color{blue}{View Images ➡️}}$
 - SLA Breach Map by Country
 - Secondary Tag Drilldowns
 
-> <img width="1213" height="680" alt="Image" src="https://github.com/user-attachments/assets/fa9fcd91-5e34-4553-99b6-68172bdcf08e" />
+> <img width="700" height="450" alt="Image" src="https://github.com/user-attachments/assets/6eaebfca-86ae-4285-b3bc-940d99e9878c" />
 
 </details>
 
