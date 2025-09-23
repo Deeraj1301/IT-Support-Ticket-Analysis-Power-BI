@@ -1,10 +1,12 @@
 # 📊 IT-Support-Ticket-Analysis – Power BI
 
-[![View Portfolio] (<img width="1024" height="202" alt="Image" src="https://github.com/user-attachments/assets/3badf33e-c36c-4088-bb3f-b0ed49e15fac" />)]
-[![View Dashboard](https://img.shields.io/badge/View%20Dashboard-%23000000.svg?style=for-the-badge&logo=Codeforces&logoColor=gold)](https://app.powerbi.com/view?r=eyJrIjoiZDA1YTBkMzctMWM0Yy00NTE2LWE4MWItNTc5MTM1MmU5YjRhIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
+[![View Dashboard](https://img.shields.io/badge/View%20Dashboard-%23000000.svg?style=for-the-badge&logo=Codeforces&logoColor=gold)](https://app.powerbi.com/view?r=eyJrIjoiMDYyZGU5OWItZjliMC00NjE5LWFhMmEtMGI1OGZkMDE4NTJhIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
+
+<a href="https://datascienceportfol.io/deerajS" target="_blank"><img width="167" height="200" alt="Image" src="https://github.com/user-attachments/assets/3badf33e-c36c-4088-bb3f-b0ed49e15fac" />
+</a>
 
 ## Table of Contents
-- [📊  IT-Support-Ticket-Analysis – Power BI](#-social-media-marketing-performance-analytics--power-bi)
+- [📊  IT-Support-Ticket-Analysis – Power BI](#-IT-Support-Ticket-Analysis--power-bi)
   - [Table of Contents](#table-of-contents)
   - [Problem Statement](#problem-statement)
   - [Project Planning using Star Method](#project-planning-using-star-method)
@@ -185,7 +187,7 @@ The objective was to design and implement a centralized analytics solution that:
 $\textsf{\color{blue}{View Data Source ➡️}}$
 </summary><br>
 
-- **Dataset:** Data Set Provided By [ZoomCharts](https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/challenges/fp20-analytics-august-2025)
+- **Dataset:** Data Set Provided By [ZoomCharts](https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/challenges/fp20-analytics-july-2025)
 
 - File: IT_Support_Ticket_Desk.xlsx.
 
@@ -467,9 +469,10 @@ AVERAGEX(
 <details>
 <summary>
 $\textsf{\color{blue}{View Images ➡️}}$
-</summary>
+</summary> <br>
 
-> ### 1. Executive Summary
+
+> ### 1. Executive Summary 
 
 - Total Tickets (overall volume)
 - Tickets Raised vs Resolved (trend over time)
@@ -483,7 +486,7 @@ $\textsf{\color{blue}{View Images ➡️}}$
 > <a href="https://app.powerbi.com/view?r=eyJrIjoiNWU0MmMyNGQtODFiMS00NzI3LTk1MDMtYWU3OTNlNmE1MjM4IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9" target="_blank"><img width="1200" height="674" alt="Image" src="https://github.com/user-attachments/assets/55b78cd7-d4f9-4a75-aacf-6642dbe37639" />
 </a>
 
-> ### 2.Resolution Deep Dive
+> ### 2.Resolution Deep Dive 
 
 - Avg Resolution Time by Priority & Tag
 - SLA Performance (Inside SLA vs Outside SLA)
