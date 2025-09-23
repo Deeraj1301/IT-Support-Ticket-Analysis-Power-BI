@@ -6,14 +6,8 @@
 </a>
 
 ## Table of Contents
-- [📊  IT-Support-Ticket-Analysis – Power BI](#-IT-Support-Ticket-Analysis--power-bi)
-  - [Table of Contents](#table-of-contents)
   - [Problem Statement](#problem-statement)
   - [Project Planning using Star Method](#project-planning-using-star-method)
-    - [📝 S - Situation](#-s---situation)
-    - [🎯 T - Task](#-t---task)
-    - [⚡ A - Action](#-a---action)
-    - [🏆 R - Result](#-r---result)
   - [Data Source](#data-source)
   - [Data Preprocessing \& ETL](#data-preprocessing--etl)
   - [Data Modelling](#data-modelling)
