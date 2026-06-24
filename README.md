@@ -2,7 +2,7 @@
 
 [![View Dashboard](https://img.shields.io/badge/View%20Dashboard-%23000000.svg?style=for-the-badge&logo=Codeforces&logoColor=gold)](https://app.powerbi.com/view?r=eyJrIjoiMDYyZGU5OWItZjliMC00NjE5LWFhMmEtMGI1OGZkMDE4NTJhIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
 
-<a href="https://datascienceportfol.io/deerajS" target="_blank"><img width="167" height="200" alt="Image" src="https://github.com/user-attachments/assets/3badf33e-c36c-4088-bb3f-b0ed49e15fac" />
+<a href="https://datascienceportfol.io/deerajS" target="_blank"><img width="167" height="40" alt="Image" src="https://github.com/user-attachments/assets/3badf33e-c36c-4088-bb3f-b0ed49e15fac" />
 </a>
 
 ## Table of Contents
